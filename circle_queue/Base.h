@@ -7,8 +7,8 @@
 #define ERROR        0
 #define OVERFLOW    -2
 #define UNDERFLOW   -3
-#define Bool       int 
 #define INFEASIBLIE -1
+#define Bool       int 
 
 
 
