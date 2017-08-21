@@ -1,3 +1,7 @@
 my git readme.
 This repository contains common ADT, 2017-8-19. after a few days, i 
 will add tree ADT.
+
+/****************************************/
+Add BinaryTree ADT,it has PreOder,InOrder,PostOder traverse algorithm.
+Another ADT will be added few days laster,2017-8-21
